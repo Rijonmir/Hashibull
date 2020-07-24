@@ -48,9 +48,9 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(0.001)
 
-#Dev:love_hacker
+#Dev:hashibul
 ##### LOGO #####
-logo = "
+Hashibul
  __  __                    __          __               ___      
 /\ \/\ \                  /\ \      __/\ \             /\_ \     
 \ \ \_\ \     __      ____\ \ \___ /\_\ \ \____  __  __\//\ \    
